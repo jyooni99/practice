@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="euc-kr"?>
+
+<book>
+    <intro title = "클릭하세요 XML" isbn="79-7085-331-7"/>   <!-- 종료태그 없음 -->
+    <publisher> 대림 </publisher>
+    <price> 25000 </price>  <!-- publisher와 price 종료태그 위치 변경 -->
+    <pages> 700 </pages>  <!-- pages의 종료태그 소문자로 -->
+    <author> 조 진이 </author>
+</book>

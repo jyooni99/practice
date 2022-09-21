@@ -1,0 +1,14 @@
+<?xml version = "1.0" encoding="euc-kr" ?>
+
+<books>  <!-- books 요소 추가 (루트요소가 없음) -->
+    <book title = "클릭하세요 XML" isbn = "79-7085-331-7">  <!-- 타이틀에 속성값 추가, isbn 속성값에 큰따옴표 -->
+    <publisher> 대림 </publisher>
+    <price> 25000 </price>
+    </book>
+
+    <book title="클릭하세요 C" author = "조진이" author_2 = "김소연">
+    <publisher> 대림 </publisher>
+    <price> 27000 </price>
+    <pages> 700 </pages>
+    </book>
+</books>

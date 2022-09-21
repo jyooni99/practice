@@ -1,0 +1,107 @@
+<?xml version = "1.0" encoding="euc-kr"?>
+<!-- Bring 영한사전 XML -->
+
+<단어>
+    <표제어>bring</표제어>
+    <동사형>
+        <삼인칭단수_현재>brings</삼인칭단수_현재>
+        <과거>brought</과거>
+        <과거분사>brought</과거분사>
+        <현재분사>bringing</현재분사>
+    </동사형>
+    <파생형>
+        <명사>bringer</명사>
+    </파생형>
+    <예시>
+        <동사> brought, brought 
+            <예시 번호 = "1">
+                <의미>가져오다, 데려오다</의미>
+                <예문 표기법 = "[VN]">Don’t forget to bring your books with you.</예문>
+                <예문해석>올 때 잊지 말고 책 가져 와</예문해석>
+                <문형>~ sb/sth (with you) | ~ sth (for sb) | ~ (sb) sth </문형>
+            </예시>
+
+            <예시 번호 = "2">
+                <의미>가져다[제공해]주다</의미>
+                <예문 표기법 = "[VNN]">His writing brings him $10,000 a year.</예문>
+                <예문해석>그가 쓰는 글은 그에게 매년 만 달러를 가져다준다.</예문해석>
+                <문형>~ sb/sth sth | ~ sth to sb/sth></문형>
+            </예시>
+
+            <예시 번호 = "3" 구분 = "타동사" 표기법 = "[VN]">
+                <의미>야기하다, 가져오다</의미>
+                <예문>The revolution brought many changes.</예문>
+                <예문해석>그 혁명은 수많은 변화를 가져왔다.</예문해석>
+            </예시>
+
+            <예시 번호 = "4" 구분 = "타동사" 표기법 = "[VN + adv. / prep.]">
+                <의미>(특정 상태·장소에) 있게 하다, …하게 하다</의미>
+                <예문>to bring a meeting to an end</예문>
+                <예문해석>회의를 끝마치다</예문해석>
+            </예시>
+
+            <예시 번호 = "5">
+                <의미>(특정 방향·방식으로) 움직이게 하다</의미>
+                <예문 표기법 = "[VN + adv. / prep.]">The judge brought his hammer down on the table.</예문>
+                <예문해석>판사가 판사봉[법봉]을 탁자 위에 내려놓았다.</예문해석>
+            </예시>
+
+            <예시 번호 = "6" 구분 = "타동사" 표기법 = "[VN]">
+                <의미>기소[고발]하다</의미>
+                <예문>to bring a charge / a legal action / an accusation against sb</예문>
+                <예문해석>…를 기소하다 / …에 대해 법적 조치를 취하다 / …를 고발하다</예문해석>
+                <문형>~ sth (against sb)</문형>
+            </예시>
+
+            <예시 번호 = "7" 표기법 = "[VN to inf]">
+                <의미>(간신히) ~을 하다</의미>
+                <예문>She could not bring herself to tell him the news.</예문>
+                <예문해석>그녀는 그에게 차마 그 소식을 전할 수가 없었다.</예문해석>
+                <문형>~ yourself to do sth</문형>
+            </예시>
+        </동사>
+
+        <동사구>
+            <예시 번호 = "1">
+                <예문>bring A and B to|gether</예문>
+                <해석>A와 B를 화해시키다</해석>
+            </예시>
+
+            <예시 번호 ="2">
+                <예문>The loss of their son brought the two of them together.</예문>
+                <해석>아들을 잃으면서 두 사람은 화해하게 되었다.</해석>
+            </예시>
+
+            <예시 번호 = "3">
+                <예문>bring something on yourself / somebody</예문>
+                <해석>자기 자신/누구 때문에 ~이 생기다</해석>
+            </예시>
+
+            <예시 번호 = "4">
+                <예문>I have no sympathy?you brought it all on yourself.</예문>
+                <해석>난 동정 안 해. 네가 그리 된 건 모두 자업자득이니까.</해석>
+            </예시>
+
+            <예시 번호 = "5">
+                <예문>bring somebody/something back</예문>
+                <해석>~을 돌려주다, ~을 다시 가져다[데려다] 주다</해석>
+            </예시>
+
+            <예시 번호 = "6">
+                <예문>Please bring back all library books by the end of the week.</예문>
+                <해석>이번 주말까지 도서관 책을 모두 반납해 주시기 바랍니다.</해석>
+            </예시>
+
+            <예시 번호 = "7">
+                <예문>bring something about</예문>
+                <해석>~을 유발[초래]하다</해석>
+            </예시>
+
+            <예시 번호 = "8">
+                <예문>What brought about the change in his attitude?</예문>
+                <해석>어째서 그의 태도가 변했지?</해석>
+            </예시> 
+        </동사구>
+    </예시>
+</단어>
+ 
